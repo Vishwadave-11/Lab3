@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_name_hint">Enter your name</string>
+    <string name="next_button">Next</string>
+
+</PreferenceScreen>
